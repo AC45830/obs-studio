@@ -1,0 +1,391 @@
+15:15:15.658: CPU Name: 11th Gen Intel(R) Core(TM) i7-11850H @ 2.50GHz
+15:15:15.658: CPU Speed: 2496MHz
+15:15:15.658: Physical Cores: 8, Logical Cores: 16
+15:15:15.658: Physical Memory: 31953MB Total, 16208MB Free
+15:15:15.658: Windows Version: 10.0 Build 19044 (release: 21H2; revision: 3208; 64-bit)
+15:15:15.658: Running as administrator: false
+15:15:15.658: Windows 10/11 Gaming Features:
+15:15:15.658: 	Game DVR: Off
+15:15:15.658: 	Game Mode: Probably On (no reg key set)
+15:15:15.665: Sec. Software Status:
+15:15:15.666: 	CrowdStrike Falcon Sensor: enabled (AV)
+15:15:15.667: 	Microsoft Defender Antivirus: disabled (AV)
+15:15:15.667: 	CrowdStrike Falcon Sensor: enabled (FW)
+15:15:15.667: 	Windows Firewall: enabled (FW)
+15:15:15.668: Current Date/Time: 2023-07-25, 15:15:15
+15:15:15.668: Browser Hardware Acceleration: true
+15:15:15.668: Hide OBS windows from screen capture: true
+15:15:15.668: Qt Version: 6.4.3 (runtime), 6.4.3 (compiled)
+15:15:15.668: Portable mode: false
+15:15:16.262: OBS 29.1.3 (64-bit, windows)
+15:15:16.262: ---------------------------------
+15:15:16.264: ---------------------------------
+15:15:16.264: audio settings reset:
+15:15:16.264: 	samples per sec: 48000
+15:15:16.264: 	speakers:        2
+15:15:16.264: 	max buffering:   960 milliseconds
+15:15:16.264: 	buffering type:  dynamically increasing
+15:15:16.266: ---------------------------------
+15:15:16.266: Initializing D3D11...
+15:15:16.266: Available Video Adapters: 
+15:15:16.270: 	Adapter 0: NVIDIA RTX A3000 Laptop GPU
+15:15:16.270: 	  Dedicated VRAM: 6308233216
+15:15:16.270: 	  Shared VRAM:    16752773120
+15:15:16.270: 	  PCI ID:         10de:24b8
+15:15:16.270: 	  Driver Version: 27.21.14.6209
+15:15:16.271: 	  output 0:
+15:15:16.271: 	    name=S27H85x
+15:15:16.271: 	    pos={0, 0}
+15:15:16.271: 	    size={2560, 1440}
+15:15:16.271: 	    attached=true
+15:15:16.271: 	    refresh=59
+15:15:16.271: 	    bits_per_color=8
+15:15:16.271: 	    space=RGB_FULL_G22_NONE_P709
+15:15:16.271: 	    sdr_white_nits=80
+15:15:16.271: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+15:15:16.271: 	    dpi=96 (100%)
+15:15:16.271: 	    id=\\?\DISPLAY#SAM0E0E#5&3689c65&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+15:15:16.271: 	    alt_id=\\.\DISPLAY5
+15:15:16.272: 	Adapter 1: Intel(R) UHD Graphics
+15:15:16.272: 	  Dedicated VRAM: 134217728
+15:15:16.272: 	  Shared VRAM:    16752773120
+15:15:16.272: 	  PCI ID:         8086:9a60
+15:15:16.272: 	  Driver Version: 27.20.100.9365
+15:15:16.273: 	  output 0:
+15:15:16.273: 	    name=
+15:15:16.273: 	    pos={-1920, 0}
+15:15:16.273: 	    size={1920, 1080}
+15:15:16.273: 	    attached=true
+15:15:16.273: 	    refresh=60
+15:15:16.273: 	    bits_per_color=8
+15:15:16.273: 	    space=RGB_FULL_G22_NONE_P709
+15:15:16.273: 	    sdr_white_nits=80
+15:15:16.273: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+15:15:16.273: 	    dpi=96 (100%)
+15:15:16.273: 	    id=\\?\DISPLAY#BOE08CF#4&80989a3&0&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+15:15:16.273: 	    alt_id=\\.\DISPLAY1
+15:15:16.278: Loading up D3D11 on adapter NVIDIA RTX A3000 Laptop GPU (0)
+15:15:16.390: D3D11 loaded successfully, feature level used: b000
+15:15:16.390: DXGI increase maximum frame latency success
+15:15:16.390: D3D11 GPU priority setup failed (not admin?)
+15:15:17.701: ---------------------------------
+15:15:17.701: video settings reset:
+15:15:17.701: 	base resolution:   1920x1080
+15:15:17.701: 	output resolution: 1920x1080
+15:15:17.701: 	downscale filter:  Bicubic
+15:15:17.701: 	fps:               60/1
+15:15:17.701: 	format:            NV12
+15:15:17.701: 	YUV mode:          Rec. 709/Partial
+15:15:17.702: NV12 texture support enabled
+15:15:17.702: P010 texture support not available
+15:15:17.704: Audio monitoring device:
+15:15:17.704: 	name: Default
+15:15:17.704: 	id: default
+15:15:17.705: ---------------------------------
+15:15:17.722: No AJA devices found, skipping loading AJA UI plugin
+15:15:17.722: Failed to initialize module 'aja-output-ui.dll'
+15:15:17.735: No AJA devices found, skipping loading AJA plugin
+15:15:17.735: Failed to initialize module 'aja.dll'
+15:15:17.736: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+15:15:17.744: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+15:15:17.746: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+15:15:17.751: Failed to load 'en-US' text for module: 'decklink-output-ui.dll'
+15:15:17.759: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+15:15:17.759: Failed to initialize module 'decklink.dll'
+15:15:17.994: [AMF] Unable to load 'amfrt64.dll', error code 126.
+15:15:17.996: [AMF] AMF Test failed due to one or more errors.
+15:15:17.996: Failed to initialize module 'enc-amf.dll'
+15:15:18.157: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+15:15:18.158: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+15:15:18.159: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+15:15:18.272: [obs-browser]: Version 2.21.1
+15:15:18.272: [obs-browser]: CEF Version 103.0.5060.134 (runtime), 103.0.0-5060-shared-textures.2591+g4204d54+chromium-103.0.5060.134 (compiled)
+15:15:18.335: NVENC supported
+15:15:18.335: [NVENC] AV1 is not supported
+15:15:18.343: [noise suppress]: NVIDIA denoiser disabled, redistributable not found or could not be loaded.
+15:15:18.344: Failed to get NVVideoEffects.dll version info size
+15:15:18.346: [NVIDIA VIDEO FX]: FX disabled, redistributable not found or could not be loaded.
+15:15:19.310: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.2.3 | RPC Version: 1)
+15:15:19.310: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.4.3 | Qt version (run-time): 6.4.3
+15:15:19.310: [obs-websocket] [obs_module_load] Linked ASIO Version: 101201
+15:15:19.328: [obs-websocket] [obs_module_load] Module loaded.
+15:15:19.350: [vlc-video]: Couldn't find VLC installation, VLC video source disabled
+15:15:19.381: ---------------------------------
+15:15:19.381:   Loaded Modules:
+15:15:19.381:     win-wasapi.dll
+15:15:19.381:     win-dshow.dll
+15:15:19.381:     win-capture.dll
+15:15:19.381:     vlc-video.dll
+15:15:19.381:     text-freetype2.dll
+15:15:19.381:     rtmp-services.dll
+15:15:19.381:     obs-x264.dll
+15:15:19.381:     obs-websocket.dll
+15:15:19.381:     obs-vst.dll
+15:15:19.381:     obs-transitions.dll
+15:15:19.381:     obs-text.dll
+15:15:19.381:     obs-qsv11.dll
+15:15:19.381:     obs-outputs.dll
+15:15:19.381:     obs-filters.dll
+15:15:19.381:     obs-ffmpeg.dll
+15:15:19.381:     obs-browser.dll
+15:15:19.381:     image-source.dll
+15:15:19.381:     frontend-tools.dll
+15:15:19.381:     decklink-output-ui.dll
+15:15:19.381:     decklink-captions.dll
+15:15:19.381:     coreaudio-encoder.dll
+15:15:19.381: ---------------------------------
+15:15:19.382: ==== Startup complete ===============================================
+15:15:19.387: Switched to Preview/Program mode
+15:15:19.387: ------------------------------------------------
+15:15:19.446: All scene data cleared
+15:15:19.446: ------------------------------------------------
+15:15:19.465: [win-wasapi: 'Desktop Audio'] update settings:
+15:15:19.465: 	device id: default
+15:15:19.465: 	use device timing: 1
+15:15:19.471: [Loaded global audio device]: 'Desktop Audio'
+15:15:19.471: [win-wasapi: 'Mic/Aux'] update settings:
+15:15:19.471: 	device id: default
+15:15:19.471: 	use device timing: 0
+15:15:19.472: [Loaded global audio device]: 'Mic/Aux'
+15:15:19.473: Switched to scene 'Scene'
+15:15:19.474: ------------------------------------------------
+15:15:19.474: Loaded scenes:
+15:15:19.474: - scene 'Scene':
+15:15:19.474: ------------------------------------------------
+15:15:20.127: WASAPI: Device 'S27H85x (NVIDIA High Definition Audio)' [48000 Hz] initialized
+15:15:20.205: [rtmp-services plugin] Successfully updated file 'services.json' (version 231)
+15:15:20.206: [rtmp-services plugin] Successfully updated package (version 231)
+15:15:20.935: WASAPI: Device 'Microphone (Jabra Link 370)' [16000 Hz] initialized
+15:15:27.429: [duplicator-monitor-capture: 'Display Capture'] update settings:
+15:15:27.429: 	display:  (0x0)
+15:15:27.429: 	cursor: true
+15:15:27.429: 	method: WGC
+15:15:27.429: 	id: 
+15:15:27.429: 	alt_id: 
+15:15:27.429: 	setting_id: DUMMY
+15:15:27.429: 	force SDR: false
+15:15:27.436: User added source 'Display Capture' (monitor_capture) to scene 'Scene'
+15:15:27.476: [duplicator-monitor-capture: 'Display Capture'] update settings:
+15:15:27.476: 	display:  (1920x1080)
+15:15:27.476: 	cursor: true
+15:15:27.476: 	method: WGC
+15:15:27.476: 	id: \\?\DISPLAY#BOE08CF#4&80989a3&0&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+15:15:27.476: 	alt_id: \\.\DISPLAY1
+15:15:27.476: 	setting_id: \\?\DISPLAY#BOE08CF#4&80989a3&0&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+15:15:27.476: 	force SDR: false
+15:15:33.910: [duplicator-monitor-capture: 'Display Capture'] update settings:
+15:15:33.910: 	display: S27H85x (2560x1440)
+15:15:33.910: 	cursor: true
+15:15:33.910: 	method: WGC
+15:15:33.910: 	id: \\?\DISPLAY#SAM0E0E#5&3689c65&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+15:15:33.910: 	alt_id: \\.\DISPLAY5
+15:15:33.910: 	setting_id: \\?\DISPLAY#SAM0E0E#5&3689c65&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+15:15:33.910: 	force SDR: false
+15:15:38.442: >>> app not on intel GPU, fall back to old qsv encoder
+15:15:38.442: [qsv encoder: 'simple_video_recording'] settings:
+15:15:38.442: 	codec:          H.264
+15:15:38.442: 	rate_control:   ICQ
+15:15:38.442: 	ICQ Quality:    23
+15:15:38.442: 	fps_num:        60
+15:15:38.442: 	fps_den:        1
+15:15:38.442: 	width:          1920
+15:15:38.442: 	height:         1080
+15:15:38.442: [qsv encoder: 'simple_video_recording'] debug info:
+15:15:38.606: 	impl:           D3D11
+15:15:38.606: 	surf:           D3D11
+15:15:38.923: 	m_nSurfNum:     12
+15:15:38.924: 	m_nTaskPool:    4
+15:15:38.924: 	major:          1
+15:15:38.924: 	minor:          34
+15:15:38.924: ---------------------------------
+15:15:38.924: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: stereo
+15:15:38.924: 
+15:15:39.123: ==== Recording Start ===============================================
+15:15:39.123: [ffmpeg muxer: 'simple_file_output'] Writing file 'C:/Users/AC45830/Videos/2023-07-25_15-15-38.mkv'...
+15:20:59.648: Max audio buffering reached!
+15:20:59.649: adding 960 milliseconds of audio buffering, total audio buffering is now 960 milliseconds (source: Desktop Audio)
+15:20:59.649: 
+15:20:59.669: Source Desktop Audio audio is lagging (over by 71095.62 ms) at max audio buffering. Restarting source audio.
+15:22:34.537: Source Desktop Audio audio is lagging (over by 91044.60 ms) at max audio buffering. Restarting source audio.
+15:22:41.222: [ffmpeg muxer: 'simple_file_output'] Output of file 'C:/Users/AC45830/Videos/2023-07-25_15-15-38.mkv' stopped
+15:22:41.222: Output 'simple_file_output': stopping
+15:22:41.222: Output 'simple_file_output': Total frames output: 25264
+15:22:41.222: Output 'simple_file_output': Total drawn frames: 25325 (25326 attempted)
+15:22:41.222: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.0%)
+15:22:41.222: ==== Recording Stop ================================================
+15:29:20.330: User Removed source 'Display Capture' (monitor_capture) from scene 'Scene'
+15:29:41.889: User added scene 'Scene 2'
+15:29:41.891: User switched to scene 'Scene 2'
+15:29:42.526: User switched to scene 'Scene'
+15:29:44.745: User switched to scene 'Scene 2'
+15:29:44.747: User Removed scene 'Scene'
+15:30:00.873: User added scene 'Scene'
+15:30:00.874: User switched to scene 'Scene'
+15:30:03.269: User switched to scene 'Scene 2'
+15:30:05.100: User switched to scene 'Scene'
+15:30:05.604: User switched to scene 'Scene 2'
+15:30:17.175: [duplicator-monitor-capture: 'Display Capture'] update settings:
+15:30:17.175: 	display:  (0x0)
+15:30:17.175: 	cursor: true
+15:30:17.175: 	method: WGC
+15:30:17.175: 	id: 
+15:30:17.175: 	alt_id: 
+15:30:17.175: 	setting_id: DUMMY
+15:30:17.175: 	force SDR: false
+15:30:17.179: User added source 'Display Capture' (monitor_capture) to scene 'Scene 2'
+15:30:17.226: [duplicator-monitor-capture: 'Display Capture'] update settings:
+15:30:17.226: 	display:  (1920x1080)
+15:30:17.226: 	cursor: true
+15:30:17.226: 	method: WGC
+15:30:17.226: 	id: \\?\DISPLAY#BOE08CF#4&80989a3&0&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+15:30:17.226: 	alt_id: \\.\DISPLAY1
+15:30:17.226: 	setting_id: \\?\DISPLAY#BOE08CF#4&80989a3&0&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+15:30:17.226: 	force SDR: false
+15:30:23.109: [duplicator-monitor-capture: 'Display Capture'] update settings:
+15:30:23.109: 	display: S27H85x (2560x1440)
+15:30:23.109: 	cursor: true
+15:30:23.109: 	method: WGC
+15:30:23.109: 	id: \\?\DISPLAY#SAM0E0E#5&3689c65&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+15:30:23.109: 	alt_id: \\.\DISPLAY5
+15:30:23.109: 	setting_id: \\?\DISPLAY#SAM0E0E#5&3689c65&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+15:30:23.109: 	force SDR: false
+15:30:53.387: >>> app not on intel GPU, fall back to old qsv encoder
+15:30:53.387: [qsv encoder: 'simple_video_recording'] settings:
+15:30:53.387: 	codec:          H.264
+15:30:53.387: 	rate_control:   ICQ
+15:30:53.387: 	ICQ Quality:    23
+15:30:53.387: 	fps_num:        60
+15:30:53.387: 	fps_den:        1
+15:30:53.387: 	width:          1920
+15:30:53.387: 	height:         1080
+15:30:53.387: [qsv encoder: 'simple_video_recording'] debug info:
+15:30:53.439: 	impl:           D3D11
+15:30:53.439: 	surf:           D3D11
+15:30:53.559: 	m_nSurfNum:     12
+15:30:53.561: 	m_nTaskPool:    4
+15:30:53.561: 	major:          1
+15:30:53.561: 	minor:          34
+15:30:53.561: ---------------------------------
+15:30:53.561: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: stereo
+15:30:53.561: 
+15:30:53.578: ==== Recording Start ===============================================
+15:30:53.578: [ffmpeg muxer: 'simple_file_output'] Writing file 'C:/Users/AC45830/Videos/2023-07-25_15-30-53.mkv'...
+15:31:18.563: [ffmpeg muxer: 'simple_file_output'] Output of file 'C:/Users/AC45830/Videos/2023-07-25_15-30-53.mkv' stopped
+15:31:18.564: Output 'simple_file_output': stopping
+15:31:18.564: Output 'simple_file_output': Total frames output: 1438
+15:31:18.564: Output 'simple_file_output': Total drawn frames: 1499
+15:31:18.564: ==== Recording Stop ================================================
+15:31:54.978: >>> app not on intel GPU, fall back to old qsv encoder
+15:31:54.978: [qsv encoder: 'simple_video_recording'] settings:
+15:31:54.978: 	codec:          H.264
+15:31:54.978: 	rate_control:   ICQ
+15:31:54.978: 	ICQ Quality:    23
+15:31:54.978: 	fps_num:        60
+15:31:54.978: 	fps_den:        1
+15:31:54.978: 	width:          1920
+15:31:54.978: 	height:         1080
+15:31:54.978: [qsv encoder: 'simple_video_recording'] debug info:
+15:31:55.028: 	impl:           D3D11
+15:31:55.028: 	surf:           D3D11
+15:31:55.149: 	m_nSurfNum:     12
+15:31:55.150: 	m_nTaskPool:    4
+15:31:55.150: 	major:          1
+15:31:55.150: 	minor:          34
+15:31:55.150: ---------------------------------
+15:31:55.150: [FFmpeg aac encoder: 'simple_aac_recording0'] bitrate: 192, channels: 2, channel_layout: stereo
+15:31:55.150: 
+15:31:55.166: ==== Recording Start ===============================================
+15:31:55.166: [ffmpeg muxer: 'simple_file_output'] Writing file 'C:/Users/AC45830/Videos/2023-07-25_15-31-54.mkv'...
+15:32:31.345: [ffmpeg muxer: 'simple_file_output'] Output of file 'C:/Users/AC45830/Videos/2023-07-25_15-31-54.mkv' stopped
+15:32:31.345: Output 'simple_file_output': stopping
+15:32:31.345: Output 'simple_file_output': Total frames output: 2109
+15:32:31.345: Output 'simple_file_output': Total drawn frames: 2171
+15:32:31.345: ==== Recording Stop ================================================
+15:32:32.205: User switched to scene 'Scene'
+15:34:11.903: WASAPI: Default output device changed
+15:34:11.909: Device 'S27H85x (NVIDIA High Definition Audio)' invalidated.  Retrying (source: Desktop Audio)
+15:34:13.397: WASAPI: Device 'Speakers (Jabra Link 370)' [48000 Hz] initialized
+17:15:44.662: ==== Shutting down ==================================================
+17:15:44.673: WASAPI: Device 'Speakers (Jabra Link 370)' Terminated
+17:15:44.685: WASAPI: Device 'Microphone (Jabra Link 370)' Terminated
+17:15:45.800: All scene data cleared
+17:15:45.800: ------------------------------------------------
+17:15:45.926: [obs-websocket] [obs_module_unload] Shutting down...
+17:15:45.929: [obs-websocket] [obs_module_unload] Finished shutting down.
+17:15:45.933: [Scripting] Total detached callbacks: 0
+17:15:45.934: Freeing OBS context data
+17:15:45.987: == Profiler Results =============================
+17:15:45.987: run_program_init: 4071.63 ms
+17:15:45.987:  ┣OBSApp::AppInit: 56.145 ms
+17:15:45.987:  ┃ ┗OBSApp::InitLocale: 2.186 ms
+17:15:45.987:  ┗OBSApp::OBSInit: 3976.07 ms
+17:15:45.987:    ┣obs_startup: 10.732 ms
+17:15:45.987:    ┗OBSBasic::OBSInit: 3370.55 ms
+17:15:45.987:      ┣OBSBasic::InitBasicConfig: 1.051 ms
+17:15:45.987:      ┣OBSBasic::ResetAudio: 0.327 ms
+17:15:45.987:      ┣OBSBasic::ResetVideo: 1440.23 ms
+17:15:45.987:      ┣OBSBasic::InitOBSCallbacks: 0.005 ms
+17:15:45.987:      ┣OBSBasic::InitHotkeys: 0.355 ms
+17:15:45.987:      ┣obs_load_all_modules2: 1676.39 ms
+17:15:45.987:      ┃ ┣obs_init_module(aja-output-ui.dll): 2.08 ms
+17:15:45.987:      ┃ ┣obs_init_module(aja.dll): 1.908 ms
+17:15:45.987:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 3.655 ms
+17:15:45.987:      ┃ ┣obs_init_module(decklink-captions.dll): 0 ms
+17:15:45.987:      ┃ ┣obs_init_module(decklink-output-ui.dll): 0 ms
+17:15:45.987:      ┃ ┣obs_init_module(decklink.dll): 3.751 ms
+17:15:45.987:      ┃ ┣obs_init_module(enc-amf.dll): 231.651 ms
+17:15:45.987:      ┃ ┣obs_init_module(frontend-tools.dll): 142.001 ms
+17:15:45.987:      ┃ ┣obs_init_module(image-source.dll): 0.012 ms
+17:15:45.987:      ┃ ┣obs_init_module(obs-browser.dll): 9.136 ms
+17:15:45.987:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 34.561 ms
+17:15:45.987:      ┃ ┃ ┗nvenc_check: 8.603 ms
+17:15:45.987:      ┃ ┣obs_init_module(obs-filters.dll): 3.337 ms
+17:15:45.987:      ┃ ┣obs_init_module(obs-outputs.dll): 0.454 ms
+17:15:45.987:      ┃ ┣obs_init_module(obs-qsv11.dll): 925.677 ms
+17:15:45.987:      ┃ ┣obs_init_module(obs-text.dll): 0.318 ms
+17:15:45.987:      ┃ ┣obs_init_module(obs-transitions.dll): 0.008 ms
+17:15:45.987:      ┃ ┣obs_init_module(obs-vst.dll): 0.001 ms
+17:15:45.987:      ┃ ┣obs_init_module(obs-websocket.dll): 18.068 ms
+17:15:45.987:      ┃ ┣obs_init_module(obs-x264.dll): 0.001 ms
+17:15:45.987:      ┃ ┣obs_init_module(rtmp-services.dll): 1.15 ms
+17:15:45.987:      ┃ ┣obs_init_module(text-freetype2.dll): 0.055 ms
+17:15:45.987:      ┃ ┣obs_init_module(vlc-video.dll): 0.086 ms
+17:15:45.987:      ┃ ┣obs_init_module(win-capture.dll): 9.503 ms
+17:15:45.987:      ┃ ┣obs_init_module(win-dshow.dll): 5.091 ms
+17:15:45.987:      ┃ ┣obs_init_module(win-wasapi.dll): 0.028 ms
+17:15:45.987:      ┃ ┗reset_win32_symbol_paths: 0.255 ms
+17:15:45.987:      ┣OBSBasic::InitService: 2.884 ms
+17:15:45.987:      ┣OBSBasic::ResetOutputs: 0.733 ms
+17:15:45.987:      ┣OBSBasic::CreateHotkeys: 0.18 ms
+17:15:45.987:      ┣OBSBasic::InitPrimitives: 0.099 ms
+17:15:45.987:      ┗OBSBasic::Load: 79.468 ms
+17:15:45.987: obs_hotkey_thread(25 ms): min=0.002 ms, median=0.008 ms, max=1089.17 ms, 99th percentile=0.251 ms, 99.9986% below 25 ms
+17:15:45.987: audio_thread(Audio): min=0.007 ms, median=0.041 ms, max=8.254 ms, 99th percentile=1.146 ms
+17:15:45.987:  ┗receive_audio: min=0.001 ms, median=0.796 ms, max=8.21 ms, 99th percentile=2.389 ms, 0.0667227 calls per parent call
+17:15:45.987:    ┣buffer_audio: min=0.001 ms, median=0.001 ms, max=0.169 ms, 99th percentile=0.004 ms
+17:15:45.987:    ┗do_encode: min=0.016 ms, median=0.792 ms, max=8.207 ms, 99th percentile=2.39 ms
+17:15:45.987:      ┣encode(simple_aac_recording0): min=0.016 ms, median=0.765 ms, max=8.202 ms, 99th percentile=2.349 ms
+17:15:45.987:      ┗send_packet: min=0.002 ms, median=0.024 ms, max=5.486 ms, 99th percentile=0.082 ms
+17:15:45.987: obs_graphics_thread(16.6667 ms): min=0.055 ms, median=0.775 ms, max=1110.13 ms, 99th percentile=2.401 ms, 99.9954% below 16.667 ms
+17:15:45.987:  ┣tick_sources: min=0.001 ms, median=0.008 ms, max=104.933 ms, 99th percentile=0.029 ms
+17:15:45.987:  ┣output_frame: min=0.024 ms, median=0.164 ms, max=1061.96 ms, 99th percentile=0.597 ms
+17:15:45.987:  ┃ ┣gs_context(video->graphics): min=0.023 ms, median=0.157 ms, max=1061.96 ms, 99th percentile=0.399 ms
+17:15:45.987:  ┃ ┃ ┣render_video: min=0.002 ms, median=0.024 ms, max=1061.72 ms, 99th percentile=0.09 ms
+17:15:45.987:  ┃ ┃ ┃ ┣render_main_texture: min=0.001 ms, median=0.02 ms, max=1.057 ms, 99th percentile=0.071 ms
+17:15:45.987:  ┃ ┃ ┃ ┣render_convert_texture: min=0.008 ms, median=0.019 ms, max=0.356 ms, 99th percentile=0.057 ms, 0.0668832 calls per parent call
+17:15:45.987:  ┃ ┃ ┃ ┗stage_output_texture: min=0.002 ms, median=0.004 ms, max=0.603 ms, 99th percentile=0.021 ms, 0.0668832 calls per parent call
+17:15:45.987:  ┃ ┃ ┣gs_flush: min=0.02 ms, median=0.13 ms, max=300.596 ms, 99th percentile=0.337 ms
+17:15:45.987:  ┃ ┃ ┗download_frame: min=0 ms, median=0.003 ms, max=15.819 ms, 99th percentile=0.125 ms, 0.0668832 calls per parent call
+17:15:45.987:  ┃ ┗output_video_data: min=0.205 ms, median=0.269 ms, max=1.2 ms, 99th percentile=0.601 ms, 0.0668763 calls per parent call
+17:15:45.987:  ┗render_displays: min=0 ms, median=0.274 ms, max=51.72 ms, 99th percentile=0.714 ms
+17:15:45.987: video_thread(video): min=0.402 ms, median=0.585 ms, max=14.144 ms, 99th percentile=1.144 ms
+17:15:45.987:  ┗receive_video: min=0.4 ms, median=0.582 ms, max=14.141 ms, 99th percentile=1.14 ms
+17:15:45.987:    ┗do_encode: min=0.4 ms, median=0.581 ms, max=14.14 ms, 99th percentile=1.138 ms
+17:15:45.988:      ┣encode(simple_video_recording): min=0.376 ms, median=0.545 ms, max=3.295 ms, 99th percentile=1.055 ms
+17:15:45.988:      ┗send_packet: min=0.001 ms, median=0.029 ms, max=13.589 ms, 99th percentile=0.115 ms
+17:15:45.988: =================================================
+17:15:45.988: == Profiler Time Between Calls ==================
+17:15:45.988: obs_hotkey_thread(25 ms): min=24.049 ms, median=25.597 ms, max=1114.79 ms, 47.9846% within ±2% of 25 ms (0.00141283% lower, 52.014% higher)
+17:15:45.988: obs_graphics_thread(16.6667 ms): min=2.969 ms, median=16.667 ms, max=1110.13 ms, 99.9654% within ±2% of 16.667 ms (0.0173004% lower, 0.0173004% higher)
+17:15:45.988: =================================================
+17:15:46.221: Number of memory leaks: 1
