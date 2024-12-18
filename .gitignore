@@ -1,0 +1,10 @@
+**/logs/
+**/LOG/
+*.bak
+*.old
+profiler_data/
+
+**/Cache/
+*Cache*
+
+**/Cookies/
